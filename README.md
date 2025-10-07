@@ -1,0 +1,2 @@
+# SystemySztucznejInteligencji
+Zajecia akademickie
